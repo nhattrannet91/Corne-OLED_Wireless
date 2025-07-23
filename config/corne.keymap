@@ -60,7 +60,7 @@
 
         layer_3 {
             bindings = <
-&bt BT_NXT      &bt BT_SEL 0  &bt BT_SEL 1  &trans  &trans  &trans    &kp PRINTSCREEN  &trans  &trans  &trans  &trans  &trans
+&bt BT_NXT      &bt BT_SEL 0  &bt BT_SEL 1  &trans  &trans  &trans    &kp PRINTSCREEN  &trans  &trans  &trans  &trans  &studio_unlock
 &trans          &trans        &trans        &trans  &trans  &trans    &trans           &trans  &trans  &trans  &trans  &trans
 &bt BT_CLR_ALL  &trans        &trans        &trans  &trans  &trans    &trans           &trans  &trans  &trans  &trans  &trans
                                             &trans  &trans  &trans    &trans           &trans  &trans
