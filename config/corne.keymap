@@ -53,7 +53,7 @@
             bindings = <
 &kp TAB       &kp EXCL           &kp AT            &kp HASH           &kp DLLR          &kp PRCNT        &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp ESCAPE
 &kp LEFT_ALT  &mmv MOVE_X(-100)  &mmv MOVE_Y(100)  &mmv MOVE_Y(-100)  &mmv MOVE_X(100)  &kp BACKSPACE    &kp MINUS  &kp EQUAL  &kp LBKT   &kp RBKT  &kp BSLH  &kp RIGHT_ALT
-&kp LSHFT     &mkp MB1           &mkp MB3          &mkp MB2           &kp TILDE         &kp GRAVE        &kp UNDER  &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp RIGHT_SHIFT
+&kp LSHFT     &mkp LCLK          &mkp MCLK         &mkp RCLK          &kp TILDE         &kp GRAVE        &kp UNDER  &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp RIGHT_SHIFT
                                                    &kp LCTRL          &mo 3             &kp ENTER        &kp SPACE  &trans     &kp RCTRL
             >;
         };
