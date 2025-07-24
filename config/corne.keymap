@@ -37,7 +37,7 @@
 
             bindings = <
 &kp TAB         &kp N1    &kp N2   &kp N3     &kp N4     &kp N5       &kp N6          &kp N7          &kp N8        &kp N9           &kp N0   &kp ESCAPE
-&kp LEFT_WIN    &kp HOME  &kp END  &mkp RCLK  &mkp LCLK  &mkp MCLK    &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_UP  &mmv MOVE_RIGHT  &kp F11  &kp F12
+&kp LEFT_WIN    &kp HOME  &kp END  &mkp LCLK  &mkp RCLK  &mkp MCLK    &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_UP  &mmv MOVE_RIGHT  &kp F11  &kp F12
 &kp LEFT_SHIFT  &kp F1    &kp F2   &kp F3     &kp F4     &kp F5       &kp F6          &kp F7          &kp F8        &kp F18          &kp F10  &kp RIGHT_SHIFT
                                    &kp LCTRL  &trans     &kp ENTER    &kp SPACE       &mo 3           &kp RCTRL
             >;
