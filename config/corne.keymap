@@ -51,10 +51,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB       &kp EXCL        &kp AT     &kp HASH          &kp DLLR           &kp PRCNT        &kp CARET       &kp AMPS  &kp ASTRK     &kp LPAR   &kp RPAR  &kp ESCAPE
-&kp LEFT_ALT  &kp MINUS       &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH    &kp LEFT_ARROW  &kp DOWN  &kp UP_ARROW  &kp RIGHT  &trans    &kp RIGHT_ALT
-&kp LSHFT     &kp UNDERSCORE  &kp PLUS   &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp PIPE         &trans          &trans    &trans        &trans     &trans    &kp RIGHT_SHIFT
-                                         &kp LCTRL         &mo 3              &kp ENTER        &kp SPACE       &trans    &kp RCTRL
+&kp TAB       &kp EXCL        &kp AT     &kp HASH          &kp DLLR           &kp PRCNT        &kp CARET       &kp AMPS       &kp ASTRK     &kp LPAR   &kp RPAR   &kp ESCAPE
+&kp LEFT_ALT  &kp MINUS       &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH    &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &kp TILDE  &kp RIGHT_ALT
+&kp LSHFT     &kp UNDERSCORE  &kp PLUS   &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp PIPE         &kp DELETE      &kp BACKSPACE  &trans        &trans     &kp GRAVE  &kp RIGHT_SHIFT
+                                         &kp LCTRL         &mo 3              &kp ENTER        &kp SPACE       &trans         &kp RCTRL
             >;
         };
 
